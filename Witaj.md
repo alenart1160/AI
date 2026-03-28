@@ -4,4 +4,4 @@ Zapisz coś, [[stwórz łącze]] lub wypróbuj [Importer](https://help.obsidian.
 
 Kiedy będziesz gotowy, usuń tę notatkę i dostosuj sejf do własnych potrzeb.
 TEREFERE
-TEST
+TEST 
