@@ -197,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -216,10 +216,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2ecd4a8898880eee",
+  "active": "f81c1ca77d4b4ae1",
   "lastOpenFiles": [
-    "Bez nazwy",
     "Bez nazwy.md",
-    "Witaj.md"
+    "Witaj.md",
+    "Nowy Dokument tekstowy.txt",
+    "Bez nazwy"
   ]
 }
